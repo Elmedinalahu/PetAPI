@@ -1,0 +1,90 @@
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\PetApi.exe
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\PetApi.deps.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\PetApi.runtimeconfig.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\PetApi.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\PetApi.pdb
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\Snappier.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.AssemblyReference.cache
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.AssemblyInfoInputs.cache
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.AssemblyInfo.cs
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.CoreCompileInputs.cache
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.PetApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PetApi.props
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetApi.props
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetApi.props
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\scopedcss\bundle\PetApi.styles.css
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.CopyComplete
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\refint\PetApi.dll
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.pdb
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\PetApi.genruntimeconfig.cache
+C:\Users\Dardan\Desktop\LIFE from Gjirafa\Life Semestri 3\Backend\PetApi\PetApi\obj\Debug\net6.0\ref\PetApi.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\appsettings.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\PetApi.exe
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\PetApi.deps.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\PetApi.runtimeconfig.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\PetApi.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\PetApi.pdb
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\DnsClient.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\Snappier.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.AssemblyReference.cache
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.AssemblyInfoInputs.cache
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.AssemblyInfo.cs
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.CoreCompileInputs.cache
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.PetApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PetApi.props
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetApi.props
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetApi.props
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\scopedcss\bundle\PetApi.styles.css
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.csproj.CopyComplete
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\refint\PetApi.dll
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.pdb
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\PetApi.genruntimeconfig.cache
+C:\Users\online\Downloads\PetApi-20230204T174022Z-001\PetApi\PetApi\obj\Debug\net6.0\ref\PetApi.dll
